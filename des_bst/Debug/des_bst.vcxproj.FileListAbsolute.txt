@@ -1,0 +1,2 @@
+C:\Users\Jaro\source\repos\des_bst\Debug\des_bst.exe
+C:\Users\Jaro\source\repos\des_bst\Debug\des_bst.pdb

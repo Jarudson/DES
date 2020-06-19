@@ -1,0 +1,4 @@
+﻿  des.cpp
+C:\Users\Jaro\source\repos\des_bst\des.cpp(83,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jaro\source\repos\des_bst\des.cpp(553,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  des_bst.vcxproj -> C:\Users\Jaro\source\repos\des_bst\Debug\des_bst.exe
